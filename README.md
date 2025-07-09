@@ -7,6 +7,7 @@
 ### tech-stack
 
 ### stats github
+[![Guflie](https://github-readme-stats.vercel.app/api?username=leonardo-guglielmi)](https://github.com/leonardo-guglielmi)
 
 <!--
 **leonardo-guglielmi/leonardo-guglielmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
