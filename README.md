@@ -1,4 +1,12 @@
-## Hi there 👋
+## title
+
+### short brief about myself
+
+### most relevant projects
+
+### tech-stack
+
+### stats github
 
 <!--
 **leonardo-guglielmi/leonardo-guglielmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
