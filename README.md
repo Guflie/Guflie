@@ -17,6 +17,7 @@ TODO
 ![Java](https://img.shields.io/badge/java-ffa14a?logo=openjdk&logoColor=black&style=for-the-badge)
 ![Cmake](https://img.shields.io/badge/cmake-218001?logo=cmake&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-ff4603?logo=git&logoColor=black&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-guglielmi&include_all_commits=true&count_private=true&layout=donut&langs_count=6)
 
