@@ -7,7 +7,7 @@ TODO
 
 ---
 ### My stuff
-[![Multiagent exploration system](https://github-readme-stats.vercel.app/api/pin/?username=leonardo-guglielmi&repo=multiagent-exploration-system)](https://github.com/leonardo-guglielmi/multiagent-exploration-system)
+[![Multiagent exploration system](https://github-readme-stats.vercel.app/api/pin/?username=Guflie&repo=multiagent-exploration-system&bg_color=151515&text_color=9f9f9f&icon_color=f9f9f9&title_color=03ad45)](https://github.com/leonardo-guglielmi/multiagent-exploration-system)
 
 ---
 ### My skill
@@ -19,7 +19,7 @@ TODO
 ![Git](https://img.shields.io/badge/git-ff4603?logo=git&logoColor=black&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-guglielmi&include_all_commits=true&count_private=true&layout=donut&langs_count=6)
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Guflie&include_all_commits=true&count_private=true&layout=donut&langs_count=6&bg_color=151515&text_color=9f9f9f&icon_color=f9f9f9&title_color=f77800)
 
 ---
 ### Social
