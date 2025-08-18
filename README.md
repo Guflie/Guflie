@@ -1,6 +1,5 @@
-## Hi there
-TODO 
-<!-- -->
+## Hi there, I'm Guflie 👋
+
 - *Data analyst* [@Betamotor](https://www.betamotor.com/)
 - Bachelor's degree in *Computer engineering* [@UniFi](https://www.ingegneria.unifi.it/)
 -  coming soon...
