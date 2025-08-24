@@ -1,8 +1,7 @@
 ## Hi there, I'm Guflie 👋
 
-- *Data analyst* [@Betamotor](https://www.betamotor.com/)
 - Bachelor's degree in *Computer engineering* [@UniFi](https://www.ingegneria.unifi.it/)
--  coming soon...
+- Master's student in __Computer Science and Engineering, Artifical Intelligence__ [@PoliMi](https://www.inginformatica.polimi.it/)
 
 ---
 ### My stuff
