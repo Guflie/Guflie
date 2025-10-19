@@ -1,7 +1,7 @@
 ## Hi there, I'm Guflie 👋
 
 - Bachelor's degree in *Computer engineering* [@UniFi](https://www.ingegneria.unifi.it/)
-- Master's student in __Computer Science and Engineering, Artifical Intelligence__ [@PoliMi](https://www.inginformatica.polimi.it/)
+- Master's student in __Computer Science and Engineering, Artificial Intelligence__ [@PoliMi](https://www.inginformatica.polimi.it/)
 
 ---
 ### My stuff
